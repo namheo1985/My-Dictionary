@@ -1,4 +1,4 @@
-package com.example.neotran.mydictionary;
+package com.neotran.mydictionary;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

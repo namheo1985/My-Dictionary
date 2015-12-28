@@ -1,4 +1,4 @@
-package com.example.neotran.mydictionary;
+package com.neotran.mydictionary;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
